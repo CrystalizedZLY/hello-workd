@@ -1,2 +1,2 @@
-# hello-workd
+# hello-world
 This is for new beginner
